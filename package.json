@@ -1,0 +1,19 @@
+{
+  "name": "washm",
+  "description": "WASM shell: Bash inside WASM",
+  "version": "0.1.1",
+  "keywords": [
+    "MIT",
+    "WASM",
+    "WebAssembly",
+    "WASI",
+    "Python",
+    "Pyodide"
+  ],
+  "author": "Oleg Mihailik",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

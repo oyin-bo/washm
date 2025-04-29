@@ -1,0 +1,6 @@
+[submodule "pyodide-fork"]
+	path = pyodide-fork
+	url = https://github.com/oyin-bo/wasm-pyodide-fork
+[submodule "wasmer-sh-fork"]
+	path = wasmer-sh-fork
+	url = https://github.com/oyin-bo/washm-wasmer-js-fork
