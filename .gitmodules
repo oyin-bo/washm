@@ -6,4 +6,4 @@
 	url = https://github.com/oyin-bo/washm-wasmer-js-fork
 [submodule "bash-fork"]
 	path = bash-fork
-	url = https://github.com/wasix-org/bash
+	url = https://github.com/oyin-bo/washm-bash-fork
